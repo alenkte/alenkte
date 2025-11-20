@@ -22,7 +22,7 @@
 ```json
 {
   "archetype": "Shadowy Super Coder",
-  "location": "Menlo Park / IPFS",
+  "location": "Global / Remote",
   "status": "Building...",
   "current_focus": [
     "MEV Strategies",
