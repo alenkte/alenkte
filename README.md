@@ -32,7 +32,6 @@
   "languages": [
     "Solidity",
     "Python",
-    "TypeScript",
-    "Yul"
+    "TypeScript"
   ]
 }
